@@ -1,0 +1,1 @@
+# This is a test file created through GitHub website to be pulled to my personal computer by using the git through command line (terminal)
